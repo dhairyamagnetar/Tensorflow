@@ -1,0 +1,9 @@
+
+IIITB introduced a 5 year Integrated M.Tech. (iMTech) programme from 2012 onwards. The Integrated M.Tech. program is a 5-year integrated program intended for students who have completed or are completing Plus Two (or equivalent). At the end of five years of the program, successful students get dual degrees of B.Tech and M.Tech.
+ 
+The iMTech CSE is a ten-semester program where the first eight semesters constitute academic course work. During the ninth semester, a student is expected to work on a project at the Institute or take advanced courses which will help students to pursue higher studies. In the 10th semester, the student may opt for thesis or internship in a well-recognized organization.
+ 
+The courses in iMTech CSE cover wide range of core topics including algorithms, automata theory, discrete maths,  Computer Architecture, Digital Design, Computer Networking, Operating systems, and current technology topics such as Artificial intelligence, Machine learning, Approximate algorithms, Software defined network, Real time operating systems and many others. The CSE curriculum also has a mix of General courses such as English, Technical communication, Economics, and others. Students also study 3 courses on applied Maths, and a course on Engineering physics to have strong understanding of science and engineering. At the end of the five years, students are expected to specialize in more than one streams namely: AIML (Artificial Intelligence & Machine Learning), TSCD (Theory and Systems for Computing and Data), NC (Networking and Communication), VLSI (VLSI Systems), and DT (Digital Society).
+ 
+IMTech CSE students are placed in high profile jobs including Google, Amazon, Flipkart, and others. On Research side, students have secured Ph.D. offers from Harvard, Cornell, and many other university's in the past. Our students have performed well in international Programming competitions such as ACM-ICPC in the past.
+
